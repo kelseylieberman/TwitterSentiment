@@ -1,3 +1,4 @@
+# adapted from https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
 import re
 import os
 import tweepy
